@@ -1,6 +1,6 @@
 package com.obakeng.MovieApi.service;
 
-import com.obakeng.MovieApi.dto.MovieDto;
+
 import org.springframework.web.multipart.MultipartFile;
 
 import java.io.FileNotFoundException;
